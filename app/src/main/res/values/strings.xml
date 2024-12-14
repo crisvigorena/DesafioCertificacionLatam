@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio Certificacion Latam</string>
+    <string name="asset_image">asset image</string>
+    <string name="username">username</string>
+    <string name="welcome">Welcome</string>
+    <string name="your_username">your username</string>
+</resources>

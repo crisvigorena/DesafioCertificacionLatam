@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.inforcap.desafiocertificacionlatam.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.inforcap.desafiocertificacionlatam.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.inforcap.desafiocertificacionlatam.app-mergeDebugResources-35:/layout/activity_details.xml",
+        "source": "com.inforcap.desafiocertificacionlatam.app-main-38:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.inforcap.desafiocertificacionlatam.app-mergeDebugResources-35:/layout/item_movie.xml",
+        "source": "com.inforcap.desafiocertificacionlatam.app-main-38:/layout/item_movie.xml"
+    }
+]

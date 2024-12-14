@@ -1,0 +1,6 @@
+com.inforcap.desafiocertificacionlatam.test.app-tracing-1.2.0-0 C:\Users\Cucho\.gradle\caches\transforms-4\51b801412df90390ea338fca9e952083\transformed\tracing-1.2.0\res
+com.inforcap.desafiocertificacionlatam.test.app-core-1.6.1-1 C:\Users\Cucho\.gradle\caches\transforms-4\f1de0c4edc1152409866ec97a8de439c\transformed\core-1.6.1\res
+com.inforcap.desafiocertificacionlatam.test.app-androidTest-2 E:\TD\certificacion_latam\app\build\generated\res\resValues\androidTest\debug
+com.inforcap.desafiocertificacionlatam.test.app-mergeDebugAndroidTestResources-3 E:\TD\certificacion_latam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.inforcap.desafiocertificacionlatam.test.app-mergeDebugAndroidTestResources-4 E:\TD\certificacion_latam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.inforcap.desafiocertificacionlatam.test.app-debugAndroidTest-5 E:\TD\certificacion_latam\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
